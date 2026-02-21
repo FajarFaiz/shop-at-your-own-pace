@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "871899433096",
+    "project_id": "shop-at-your-own-pace",
+    "storage_bucket": "shop-at-your-own-pace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871899433096:android:bf61c9ac1236d88e7d773d",
+        "android_client_info": {
+          "package_name": "com.example.shopatyourownpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871899433096-eif9h00oa4qfs55088g6r8df00c6pafq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopatyourownpace",
+            "certificate_hash": "1bfae15dfec3e96a2dc605d5a536b356c5a79aed"
+          }
+        },
+        {
+          "client_id": "871899433096-mroprgj77urkaq9bmsg9kfr9q9v8jh3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrGpy9CizVjSLHJBU91DNqu_K45a6rGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871899433096-mroprgj77urkaq9bmsg9kfr9q9v8jh3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871899433096-ujq11kr9crdkvk67fnr1tj7ppsibvdrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopatyourownpace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871899433096:android:51f40f86051ad9c47d773d",
+        "android_client_info": {
+          "package_name": "com.example.shopatyourownpace_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871899433096-mroprgj77urkaq9bmsg9kfr9q9v8jh3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrGpy9CizVjSLHJBU91DNqu_K45a6rGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871899433096-mroprgj77urkaq9bmsg9kfr9q9v8jh3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871899433096-ujq11kr9crdkvk67fnr1tj7ppsibvdrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopatyourownpace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
