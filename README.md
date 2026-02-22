@@ -17,7 +17,7 @@ Provide a clean, fast, and responsive shopping interface
 Efficiently manage products, cart, and users
 Use real-time database updates without a separate backend
 
-#✨ Features
+# ✨ Features
 
 Product listing with images and prices
 Add to Cart functionality
@@ -93,3 +93,4 @@ Real-time data handling
 
 Suggestions and feedback are always welcome!
 Feel free to fork this repository or raise issues.
+
